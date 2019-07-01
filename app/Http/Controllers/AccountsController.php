@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\user;
 use App\Models\Account;
 use Exception;
 use Auth;
